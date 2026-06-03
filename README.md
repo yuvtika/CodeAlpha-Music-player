@@ -7,7 +7,7 @@ SoundScape is a premium, web-based music player designed with a modern glassmorp
 ## 🔗 Live Link
 
 Access the live deployment of the SoundScape Music Player here:
-> 🚀 **Live Demo:** **[Insert Live Link Here]**
+> 🚀 **Live Demo:** **https://prismatic-piroshki-28b7d8.netlify.app/**
 
 ---
 
